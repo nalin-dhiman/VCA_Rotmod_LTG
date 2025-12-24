@@ -61,7 +61,7 @@ pdflatex paper.tex
 - `fit_results_all_models.csv`: Full sample sensitivity results
 - `results_mcmc_refined/`: MCMC posteriors and diagnostics
 - `figures/`, `results_comparison/`, `results_rar/`: Publication figures
-- `paper.pdf`: Compiled manuscript
+
 
 ## Repository Structure
 ```
@@ -80,9 +80,7 @@ Rotmod_LTG/
 │   └── analysis_mcmc.py    # MCMC driver
 ├── results_mcmc/           # MCMC outputs
 ├── figures/                # All plots
-└── paper/
-    ├── paper.tex
-    └── refs.bib
+
 ```
 
 ## Models Implemented
