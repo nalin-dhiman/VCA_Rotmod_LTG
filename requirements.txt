@@ -1,0 +1,11 @@
+arviz==0.23.0
+corner==2.2.3
+emcee==3.1.6
+matplotlib==3.10.1
+matplotlib-inline @ file:///work/perseverance-python-buildout/croot/matplotlib-inline_1698864771271/work
+numpy==2.2.0
+numpy-minmax==0.3.1
+numpy-rms==0.4.2
+numpydoc @ file:///croot/numpydoc_1718279157024/work
+pandas @ file:///home/conda/feedstock_root/build_artifacts/pandas_1744430457695/work
+scipy @ file:///home/conda/feedstock_root/build_artifacts/scipy-split_1729480682811/work/dist/scipy-1.14.1-cp312-cp312-linux_x86_64.whl#sha256=5dc72baa2d67ff6e6fc7aa7dd0fe21390ed1e3400bdeddd731d9d88066ffbd26

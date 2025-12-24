@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+venv/
+
+# Data files (GitHub has 100MB file limit)
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.csv
+*.pdf
+
+# Data directories
+data/
+dataset/
+models/
+weights/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
