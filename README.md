@@ -5,7 +5,7 @@ This repository contains the complete analysis pipeline for testing the "Velocit
 
 **Citation**: If you use this code or data, please cite:
 - Lelli et al. (2016) for SPARC data: [AJ 152, 157](https://doi.org/10.3847/0004-6256/152/6/157)
-- [Your paper citation - to be added upon publication]
+- My paper if accepted. :)   hehe 
 
 **Zenodo DOI**: [To be assigned upon archival]
 
