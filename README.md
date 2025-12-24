@@ -112,7 +112,7 @@ http://astroweb.case.edu/SPARC/
 Place `*_rotmod.dat` files in the `data/` directory.
 
 ## License
-[To be specified - suggest MIT or GPL-3.0]
+MIT 
 
 ## Contact
 d24008@students.iitmandi.ac.in
