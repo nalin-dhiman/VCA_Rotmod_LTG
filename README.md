@@ -115,7 +115,7 @@ Place `*_rotmod.dat` files in the `data/` directory.
 [To be specified - suggest MIT or GPL-3.0]
 
 ## Contact
-[Author contact information]
+d24008@students.iitmandi.ac.in
 
 ## Acknowledgments
 This research uses data from the SPARC database (Lelli et al. 2016).
