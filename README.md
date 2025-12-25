@@ -50,12 +50,6 @@ python3 -m src.analysis_rar
 python3 src/generate_final_plots.py
 ```
 
-### 5. Compile Manuscript
-```bash
-pdflatex paper.tex
-# content of refs.bib is required for full bibliography
-pdflatex paper.tex
-```
 
 ### Outputs
 - `fit_results_all_models.csv`: Full sample sensitivity results
